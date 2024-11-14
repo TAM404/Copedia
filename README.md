@@ -1,0 +1,2 @@
+# Copedia
+Modern Educational Platform
